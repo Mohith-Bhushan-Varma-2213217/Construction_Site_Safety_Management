@@ -1,10 +1,4 @@
 # Construction Site Safety Management Project using YOLO models
-The safety of construction site personnel is paramount, with personal protective equipment (PPE) playing a crucial role in ensuring the well-being of workers. In recent years, safety helmet monitoring has gained significant attention, driven by advancements in image processing technologies. 
-Deep learning (DL) has emerged as a powerful tool for object detection tasks, leveraging its ability to extract intricate features from raw data. The constant evolution of DL models has yielded notable successes in safety helmet detection tasks. In this project, 
-we focus on evaluating the efficacy of three prominent DL models: YOLOv7 and YOLOv8. These models are chosen for their relevance and advancements in the field of object detection.  
-To conduct a comprehensive evaluation, each model will be trained and tested, and their respective performances will be critically analysed. 
-The project aims to provide insights into the strengths and weaknesses of each model, offering valuable information for researchers, practitioners, and stakeholders in the construction industry.
-
 ## Introduction:
 The focus on safety helmet detection aligns with the broader goal of creating safer working environments. Implementing image processing techniques, particularly DL, facilitates real-time monitoring of safety helmet presence on construction site personnel. 
 This research contributes to the evolving landscape of image processing, employing various DL technologies and target detection algorithms.
